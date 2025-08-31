@@ -94,7 +94,7 @@ border: 2px solid red
     clear: both;
 }
 
-#pie2{
+.pie2{
  
     color:rgb(134, 183, 134);
     text-align: center;
@@ -103,13 +103,13 @@ border: 2px solid red
     font-size:40px;
 }
 
-#pie3{
+.pie3{
     color:blanchedalmond;
     font-family:sans-serif;
     font-size: 12px
 }
 
-#tabla2{
+.tabla2{
     width: 900px;
     height: auto; overflow: hidden;
 
